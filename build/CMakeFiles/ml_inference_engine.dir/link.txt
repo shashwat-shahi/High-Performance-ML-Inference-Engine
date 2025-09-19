@@ -1,0 +1,2 @@
+/usr/bin/ar qc libml_inference_engine.a CMakeFiles/ml_inference_engine.dir/src/inference_engine.cpp.o CMakeFiles/ml_inference_engine.dir/src/memory.cpp.o CMakeFiles/ml_inference_engine.dir/src/optimization.cpp.o CMakeFiles/ml_inference_engine.dir/src/simd_ops.cpp.o CMakeFiles/ml_inference_engine.dir/src/tensor.cpp.o
+/usr/bin/ranlib libml_inference_engine.a
